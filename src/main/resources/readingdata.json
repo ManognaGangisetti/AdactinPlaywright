@@ -1,0 +1,21 @@
+{
+  "Username": "Keerthani",
+  "Password": "426JZD",
+  "Location":"Sydney",
+  "Hotels": "Hotel Creek",
+  "Room Type": "Standard",
+  "Number of Rooms": "3",
+  "Check In Date": "26/05/2023",
+  "Check Out Date": "31/05/2023",
+  "Adults per Room": "1",
+  "Children per Room": "1",
+
+  "Firstname": "manogna",
+  "Lastname": "gangisetti",
+  "Billing Address": "kukatpally",
+  "CreditCardNumber": "123456789101123427",
+  "CreditCardType": "VISA",
+  "Expirydatemonth": "5",
+  "ExpiryDateYear": "2021",
+  "CVV number": "123"
+}
